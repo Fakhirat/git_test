@@ -1,0 +1,1 @@
+Tämä on Jaakon eka git-projekti!
